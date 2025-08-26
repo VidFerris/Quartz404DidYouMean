@@ -1,5 +1,5 @@
 # Quartz404DidYouMean
-Smarter 404s for Quartz: case-insensitive fuzzy suggestions ([Levenshtein](https://en.wikipedia.org/wiki/Levenshtein_distance)), works under subpaths, no server required.
+Smarter 404s for [Quartz](https://quartz.jzhao.xyz/): case-insensitive fuzzy suggestions ([Levenshtein](https://en.wikipedia.org/wiki/Levenshtein_distance)), works under subpaths, no server required.
 
 _NOTE: This was vibe coded with an LLM - there might be bugs! - but it seems to work for me. If you have any trouble using it please open an issue because it's probably buggy for me too and I have just not noticed._
 
