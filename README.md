@@ -23,5 +23,5 @@ Features:
 Installation:
 1. Copy/merge the "quartz" folder in this repo into where you have Quartz installed, so the new content for the components and plugins folders get added.
 2. Edit your existing quartz/plugins/emitters/index.ts file to include the custom not found page, editing it as per the example in quartz/plugins/emitters/INDEX-EDIT.ts. (Delete the example when done.)
-3. Edit your existing quartz.config.ts file in your root quartz folder as per the example in QUARTZ-CONFIG-EDIT.ts.
+3. Edit your existing quartz.config.ts file in your root quartz folder as per the example in QUARTZ-CONFIG-EDIT.ts. (also make sure that file has Plugin.ContentIndex in the emitters as well - it should be by default)
 4. Recompile and deploy your site!
